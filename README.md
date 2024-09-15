@@ -19,5 +19,5 @@
 #### • Created a DAX measure to sales across differen sub categories
 #### • Gained hands on knowledge on PowerBI involving preparing interactive dashboard.
 ### RESULTS :
-#### • Provided actionable insights and strategic recommendations to improve driver management and user experience.
-#### • Assessed driver earnings and geographic data to enhance revenue and service coverage.
+#### • Provided actionable insights and strategic recommendations to improve strategic planning.
+#### • Understanding sales pattern and sicount helps to improve company's benefit and overall growth.
